@@ -1,0 +1,15 @@
+/* Menu */
+.menus img, .fill { width: 100%; }
+.menus { display: none; }
+#menu0 { display: block; }
+#menu0 a { width: 49.9%; display: inline-block; }
+.menus a { width: 49.9%; display: inline-block; }
+.menus a:nth-child(1) { width: 50%; display: block; margin: auto; text-align: center; }
+.back { width: 50% !important; }
+.stop { width: 50% !important; }
+
+/* Sider */
+table.hr { width: 33%; display: inline-block; }
+table.hr:nth-child(3n+1) { border-right: 2px solid #cccccc; }
+table.hr:nth-child(3n+2) { border-right: 2px solid #cccccc; }
+table.hr:hover { background: #dddddd; }
