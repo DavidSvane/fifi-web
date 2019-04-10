@@ -1,0 +1,28 @@
+﻿@font-face { font-family: gidolinyaregular; src: url(gidolinyaregular.otf); }
+html, body, table, tr, th, td, div, img {margin: 0; padding: 0; border: 0; font-size: 1em; font: inherit;}
+body {line-height: 1; overflow-x: hidden;}
+table {border-collapse: collapse; border-spacing: 0;}
+p {font-family: Arial, Helvetica, sans-serif; font-size: 1.5em; padding: 0px 40px 40px 40px; margin: 0;}
+a {border: none; text-decoration: none;}
+
+#part_1, #part_2, #part_3, #part_4, #part_5 {display: none;}
+
+.toplogo {width: 100%;}
+.toplogo img {width: 50%; margin: auto; text-align: center; display: block; padding: 1em;}
+
+.center {width: 100%; text-align: center;}
+.center p.title {font-size: 4em; margin: 20px 0; padding: 20px 0; color: #ffffff; background: #33b2ff; width: 100%; font-family: gidolinyaregular;}
+
+.stores {width: 80%; margin: auto; display: block; padding: 0 0 20px;}
+.peeps {width: 49%; margin: auto; display: inline-block; padding: 10px 0;}
+.blogo {width: 80%; margin: auto; display: block; padding: 20px 0;}
+#double {width: 99%;}
+
+.info {text-align: center; color: #ffffff; background: #33b2ff; text-decoration: none;}
+.info a {color: #ffffff;}
+.info img {width: 100%;}
+
+.regioner a {text-decoration: none;}
+.regioner img {text-align: center; margin: 5px auto; display: block; width: 50%; background: white; padding: 10px;}
+
+.app_forklaring {width: 90%; margin: auto; text-align: center; display: block;}
